@@ -39,5 +39,10 @@ body {
 .banner { 
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
+.nina { 
+    display: flex;
+    position: relative;
+}
